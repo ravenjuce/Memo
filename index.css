@@ -62,6 +62,7 @@ li {
     background-color: rgb(252, 247, 232);
     margin: 5px 0;
     padding: 14px 14px 11px 14px;
+    width: 315px;
 }
 
 li:hover {
